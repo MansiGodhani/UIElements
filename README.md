@@ -2,7 +2,7 @@
 <h2>User Profile</h2>
 <h3>Hey! Welcome to User Profile</h3>
 
-##Emphasis
+<h4>Emphasis</h4>
 This User Profile app useable for user to check their activity , review status and also they can edit thier profile , information and profile image.
 
 This is an Assignment Work given by VNSGU .
@@ -30,11 +30,11 @@ This is an Assignment Work given by VNSGU .
  </ul>
  
 <h2>Images</h2>
-          ![1 LoginPage](https://user-images.githubusercontent.com/81357299/122861832-bea6cb80-d33d-11eb-90cf-a28ed95d2002.png)<br>
-          ![2 HomePage](https://user-images.githubusercontent.com/81357299/122861846-c49cac80-d33d-11eb-9b60-a90f22febd5d.png)<br>
-          ![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122861855-c7979d00-d33d-11eb-806b-cc13862c7439.png)<br>
-          ![4 PersonalInfoSettingPage](https://user-images.githubusercontent.com/81357299/122861860-cb2b2400-d33d-11eb-8d01-65ab873484f5.png)<br>
-          ![5 ProfileImagePage](https://user-images.githubusercontent.com/81357299/122861876-cebeab00-d33d-11eb-98aa-189a6679ada9.png)
+ ![1 LoginPage](https://user-images.githubusercontent.com/81357299/122861832-bea6cb80-d33d-11eb-90cf-a28ed95d2002.png)<br>
+ ![2 HomePage](https://user-images.githubusercontent.com/81357299/122861846-c49cac80-d33d-11eb-9b60-a90f22febd5d.png)<br>
+ ![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122861855-c7979d00-d33d-11eb-806b-cc13862c7439.png)<br>
+ ![4 PersonalInfoSettingPage](https://user-images.githubusercontent.com/81357299/122861860-cb2b2400-d33d-11eb-8d01-65ab873484f5.png)<br>
+ ![5 ProfileImagePage](https://user-images.githubusercontent.com/81357299/122861876-cebeab00-d33d-11eb-98aa-189a6679ada9.png)
 
 
 
