@@ -1,5 +1,5 @@
 # UIElements User Profile iOS App
-##User Profile
+<h2>User Profile</h2>
 <h3>Hey! Welcome to User Profile</h3>
 
 ##Emphasis
@@ -29,9 +29,9 @@ This is an Assignment Work given by VNSGU .
   <li>UIImagePickerController</li>
  </ul>
  
-##Images
- ![1 LoginPage](https://user-images.githubusercontent.com/81357299/122861832-bea6cb80-d33d-11eb-90cf-a28ed95d2002.png)
- ![2 HomePage](https://user-images.githubusercontent.com/81357299/122861846-c49cac80-d33d-11eb-9b60-a90f22febd5d.png)
+<h2>Images</h2>
+  <img src="![1 LoginPage](https://user-images.githubusercontent.com/81357299/122861832-bea6cb80-d33d-11eb-90cf-a28ed95d2002.png)">
+  <img sec="![2 HomePage](https://user-images.githubusercontent.com/81357299/122861846-c49cac80-d33d-11eb-9b60-a90f22febd5d.png)">
  ![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122861855-c7979d00-d33d-11eb-806b-cc13862c7439.png)
  ![4 PersonalInfoSettingPage](https://user-images.githubusercontent.com/81357299/122861860-cb2b2400-d33d-11eb-8d01-65ab873484f5.png)
  ![5 ProfileImagePage](https://user-images.githubusercontent.com/81357299/122861876-cebeab00-d33d-11eb-98aa-189a6679ada9.png)
