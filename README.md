@@ -32,6 +32,7 @@ This is an Assignment Work given by VNSGU .
 <h2>Images</h2>
 ![1 LoginPage](https://user-images.githubusercontent.com/81357299/122861832-bea6cb80-d33d-11eb-90cf-a28ed95d2002.png)<br>
 ![2 HomePage](https://user-images.githubusercontent.com/81357299/122862594-fd895100-d33e-11eb-949e-2fbddbb2b1e0.png)
+![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122862677-227dc400-d33f-11eb-88f0-4c905d7484a9.png)
 
 
 
