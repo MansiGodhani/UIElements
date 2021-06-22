@@ -1,5 +1,5 @@
 # UIElements User Profile iOS App
-<h2>User Profile</h2>
+<h2>User Profile App</h2>
 <h4>Hey! Welcome to User Profile</h4>
 
 <h3>Emphasis</h3>
@@ -30,11 +30,11 @@ This is an Assignment Work given by VNSGU .
  </ul>
  
 <h2>Images</h2>
-  ![1 LoginPage](https://user-images.githubusercontent.com/81357299/122863057-c49dac00-d33f-11eb-9962-b83fc5de7dce.png)</br>
-  ![2 HomePage](https://user-images.githubusercontent.com/81357299/122863064-c7989c80-d33f-11eb-82e1-9ff872d236d4.png)</br>
-  ![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122863066-c7989c80-d33f-11eb-856b-1505d7064a00.png)</br>
-  ![4 PersonalInfoSettingPage](https://user-images.githubusercontent.com/81357299/122863067-c8313300-d33f-11eb-8fdb-779caf3555f8.png)</br>
-  ![5 ProfileImagePage](https://user-images.githubusercontent.com/81357299/122863070-c8c9c980-d33f-11eb-815e-f752f5011a34.png)
+![1 LoginPage](https://user-images.githubusercontent.com/81357299/122863441-5efdef80-d340-11eb-909f-2fbdb7d8af12.png)</br>
+![2 HomePage](https://user-images.githubusercontent.com/81357299/122863451-66bd9400-d340-11eb-93c3-c05718d905bc.png)</br>
+![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122863460-6a511b00-d340-11eb-995e-9d2b422e4778.png)</br>
+![4 PersonalInfoSettingPage](https://user-images.githubusercontent.com/81357299/122863461-6ae9b180-d340-11eb-85c4-155d2a44586d.png)</br>
+![5 ProfileImagePage](https://user-images.githubusercontent.com/81357299/122863465-6d4c0b80-d340-11eb-9aa9-10d9b3597a97.png)
 
 
 
