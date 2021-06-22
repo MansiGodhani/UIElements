@@ -30,11 +30,8 @@ This is an Assignment Work given by VNSGU .
  </ul>
  
 <h2>Images</h2>
- ![1 LoginPage](https://user-images.githubusercontent.com/81357299/122861832-bea6cb80-d33d-11eb-90cf-a28ed95d2002.png)<br>
- ![2 HomePage](https://user-images.githubusercontent.com/81357299/122861846-c49cac80-d33d-11eb-9b60-a90f22febd5d.png)<br>
- ![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122861855-c7979d00-d33d-11eb-806b-cc13862c7439.png)<br>
- ![4 PersonalInfoSettingPage](https://user-images.githubusercontent.com/81357299/122861860-cb2b2400-d33d-11eb-8d01-65ab873484f5.png)<br>
- ![5 ProfileImagePage](https://user-images.githubusercontent.com/81357299/122861876-cebeab00-d33d-11eb-98aa-189a6679ada9.png)
+![1 LoginPage](https://user-images.githubusercontent.com/81357299/122861832-bea6cb80-d33d-11eb-90cf-a28ed95d2002.png)<br>
+![2 HomePage](https://user-images.githubusercontent.com/81357299/122862594-fd895100-d33e-11eb-949e-2fbddbb2b1e0.png)
 
 
 
