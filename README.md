@@ -1,8 +1,8 @@
 # UIElements User Profile iOS App
 <h2>User Profile</h2>
-<h3>Hey! Welcome to User Profile</h3>
+<h4>Hey! Welcome to User Profile</h4>
 
-<h4>Emphasis</h4>
+<h3>Emphasis</h3>
 This User Profile app useable for user to check their activity , review status and also they can edit thier profile , information and profile image.
 
 This is an Assignment Work given by VNSGU .
@@ -30,13 +30,11 @@ This is an Assignment Work given by VNSGU .
  </ul>
  
 <h2>Images</h2>
-![1 LoginPage](https://user-images.githubusercontent.com/81357299/122861832-bea6cb80-d33d-11eb-90cf-a28ed95d2002.png)<br>
-![2 HomePage](https://user-images.githubusercontent.com/81357299/122862594-fd895100-d33e-11eb-949e-2fbddbb2b1e0.png)
-![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122862677-227dc400-d33f-11eb-88f0-4c905d7484a9.png)
-
-
-
-
+  ![1 LoginPage](https://user-images.githubusercontent.com/81357299/122863057-c49dac00-d33f-11eb-9962-b83fc5de7dce.png)</br>
+  ![2 HomePage](https://user-images.githubusercontent.com/81357299/122863064-c7989c80-d33f-11eb-82e1-9ff872d236d4.png)</br>
+  ![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122863066-c7989c80-d33f-11eb-856b-1505d7064a00.png)</br>
+  ![4 PersonalInfoSettingPage](https://user-images.githubusercontent.com/81357299/122863067-c8313300-d33f-11eb-8fdb-779caf3555f8.png)</br>
+  ![5 ProfileImagePage](https://user-images.githubusercontent.com/81357299/122863070-c8c9c980-d33f-11eb-815e-f752f5011a34.png)
 
 
 
