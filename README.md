@@ -31,11 +31,11 @@ This is an Assignment Work given by VNSGU .
  
 <h2>Images</h2>
 
-![1 LoginPage](https://user-images.githubusercontent.com/81357299/122857435-1d684700-d336-11eb-8356-fd2eb94bb237.png)</br>
-![2 HomePage](https://user-images.githubusercontent.com/81357299/122863451-66bd9400-d340-11eb-93c3-c05718d905bc.png)</br>
-![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122863460-6a511b00-d340-11eb-995e-9d2b422e4778.png)</br>
-![4 PersonalInfoSettingPage](https://user-images.githubusercontent.com/81357299/122863461-6ae9b180-d340-11eb-85c4-155d2a44586d.png)</br>
-![5 ProfileImagePage](https://user-images.githubusercontent.com/81357299/122863465-6d4c0b80-d340-11eb-9aa9-10d9b3597a97.png)
+  ![1 LoginPage](https://user-images.githubusercontent.com/81357299/122857435-1d684700-d336-11eb-8356-fd2eb94bb237.png)</br>
+  ![2 HomePage](https://user-images.githubusercontent.com/81357299/122863451-66bd9400-d340-11eb-93c3-c05718d905bc.png)</br>
+  ![3 EditProfilePage](https://user-images.githubusercontent.com/81357299/122863460-6a511b00-d340-11eb-995e-9d2b422e4778.png)</br>
+  ![4 PersonalInfoSettingPage](https://user-images.githubusercontent.com/81357299/122863461-6ae9b180-d340-11eb-85c4-155d2a44586d.png)</br>
+  ![5 ProfileImagePage](https://user-images.githubusercontent.com/81357299/122863465-6d4c0b80-d340-11eb-9aa9-10d9b3597a97.png)
 
 
 
